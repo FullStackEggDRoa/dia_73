@@ -10,5 +10,5 @@ Link Librería: https://github.com/FullStackEggDRoa/libreria_comun.git
 <br>
 <br>
 # Desde Netbeans: 
-Propiedades de Proyecto / Librerías / Class Path / Adiconar Proyecto (Add Project) / (Ubicar Directorio Librería)
+Propiedades de Proyecto / Librerías / Class Path / Adicionar Proyecto (Add Project) / (Ubicar Directorio Librería)
 
